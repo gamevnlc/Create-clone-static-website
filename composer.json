@@ -1,0 +1,15 @@
+{
+  "name": "CloneTest",
+  "description": "Clone and make static website",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Huy",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "sabberworm/php-css-parser": "^8.1"
+  }
+}
